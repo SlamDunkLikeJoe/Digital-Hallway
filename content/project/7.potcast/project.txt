@@ -1,0 +1,19 @@
+title: PotCast
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/7NmuaAsRB3Y
+-
+content: 
+The PotCast allows city kids to connect with and learn about nature. The plant is located
+in the hallway of the home so the child can interact with it as part of their morning
+routine. When the plant is watered, the PotCast plays a podcast which is broadcasted
+weekly and aimed at kids interested in ecology. In between releases a light display on the
+PotCast represents the moisture levels and acts as a countdown. When the plant hasn’t been
+watered for a week the display indicates that the plant is thirsty and there is a new
+podcast to listen to.
+-
+team:
+- [Madeleine Wilson (Product Design)](http://productdesign.dundee.ac.uk/~mwilson/wordpress)
+- [Eve Bramley (Digital Interaction Design)](http://interaction.dundee.ac.uk/~ebramley/wordpress)
+- [Amber Keating (Digital Interaction Design)](http://interaction.dundee.ac.uk/~akeating/wordpress)

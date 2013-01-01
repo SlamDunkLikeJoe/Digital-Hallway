@@ -1,0 +1,19 @@
+title: Speaking Sun
+-
+theme: amar
+-
+youtube: http://www.youtube.com/embed/pcosPS6D3pI
+-
+content: 
+Our concept is a reinterpretation of the barometer, making it more accessible for visually
+impaired people, who would be interested in a similar interaction with a device to be able
+to tell what the weather may be like: emphasis on the word may! The device instead of
+giving you exact weather predictions, is more based on the ancient rhyme "red sky at
+night, shepherds delight, red sky in the morning, shepherds warning.". Similar to seeing
+this out of a window, the chosen interaction would be much like opening blinds in order to
+inspect the morning or evening sky.
+-
+team:
+- [Jonathan Leslie (Product Design)](http://productdesign.dundee.ac.uk/~jleslie/wordpress)
+- [James Macpherson (Product Design)](http://productdesign.dundee.ac.uk/~jmacpherson/wordpress)
+- [Mark McAlister (Digital Interaction Design)](http://interaction.dundee.ac.uk/~mmcalister/wordpress)

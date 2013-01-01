@@ -1,0 +1,19 @@
+title: Status Display System
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/qeXjwu3Wpfs
+-
+content: 
+Our device, SDS, shows the user what the tube service is like on the circle and district
+lines on the London Underground. The dial moves 180 degrees in correspondence to how good
+or bad the service is at that time by taking information straight from the internet. The
+information is updated every minute, this does not mean the information or dial will
+change every minute but gives the user an accurate reading. This device would be placed in
+the hall of the user's home so they can quickly glance to see how good the service is and
+make a decision on how they are going to travel that morning. 
+-
+team:
+- [Jo Arthur (Digital Interaction Design)](http://interaction.dundee.ac.uk/~jarthur/wordpress)
+- [Spencer Livingstone (Product Design)](http://productdesign.dundee.ac.uk/~slivingstone/wordpress)
+- [Emma Purdy (Digital Interaction Design)](http://interaction.dundee.ac.uk/~epurdy/wordpress)

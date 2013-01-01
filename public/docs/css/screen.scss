@@ -1,0 +1,381 @@
+//colour
+$main-bg-color: rgba(225, 225, 225, 0.9);
+$main-color: rgb(79, 79, 79);
+
+$neutral-text-color: rgb(237, 235, 234);
+$neutral-bg-color: rgb(193, 195, 194);
+$neutral-bg-img: url(../../mia-neutral.gif);
+
+$amar-text-color: rgb(234, 230, 207);
+$amar-bg-color: rgb(184, 202, 195);
+$amar-bg-img: url(../../mia-blue.gif);
+
+$busy-families-text-color: rgb(233, 227, 215);
+$busy-families-bg-color: rgb(176, 166, 156);
+$busy-families-bg-img: url(../../mia-brown.gif);
+
+$mobile-layout-width: 800px; //anything smaller than this will trigger the 1-col layout.
+
+$drop-shadows: 0px 3px 4px #888;
+
+//typography
+@font-face {
+	font-family: 'playfair_displayregular';
+	src: url('playfair-display-webfont.eot');
+	src: url('playfair-display-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('playfair-display-webfont.woff') format('woff'),
+		 url('playfair-display-webfont.ttf') format('truetype'),
+		 url('playfair-display-webfont.svg#playfair_displayregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'home_sweet_homeregular';
+	src: url('home_sweet_home-webfont.eot');
+	src: url('home_sweet_home-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('home_sweet_home-webfont.woff') format('woff'),
+		 url('home_sweet_home-webfont.ttf') format('truetype'),
+		 url('home_sweet_home-webfont.svg#home_sweet_homeregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+$header-font: 'home_sweet_homeregular', display;
+$body-font: 'playfair_displayregular', serif;
+
+//transitions
+$menu-trans: all 0.2s ease-in;
+
+@mixin theme ($bg-img, $text-color, $bg-color) {
+	background: $bg-img; 
+	color: $main-color;
+	#content, nav, .sibling-nav{
+	a{
+		color:  $main-color;
+		@include transitions;
+		&:visited{ 
+			color: $main-color;
+		}
+		&:hover{
+			color: $text-color;
+			background-color: $bg-color;
+			}
+		}
+	}
+}
+
+@mixin transitions{
+	-webkit-transition: $menu-trans;
+	-moz-transition: $menu-trans;
+	-o-transition: $menu-trans;
+	-ms-transition: $menu-trans;
+	transition: $menu-trans;
+	}
+	
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  max-width: 1550px;
+  font-size: 16px;
+  padding: 0;
+  margin: 0 auto;
+  @media screen and (max-width: $mobile-layout-width){
+  	font-size: 14px;
+  	}
+}
+
+.container {
+  width: 97%;
+  height: 100%;
+  overflow: hidden;
+  //margin:  -1% 1%;
+  margin: 0% auto;
+  padding: 0 0.5% 0 0.5%;
+  background-color: $main-bg-color;
+}
+
+.ddpanel{
+	width: 90%;
+	margin: -1% 5% 2% 5%;
+	border: 1px solid;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+	p{
+  		padding: 0 2.5% 0 2.5%;
+  		margin-left: 2.5%;
+  		margin-right: 2.5%;
+  		background-color: $main-bg-color;
+  	}
+}
+	
+header, footer {
+  clear: both;
+
+}
+
+h1{
+	font-family: $header-font;
+	font-size: 2em;
+	
+}
+
+h2{
+	font-size: 1.5em;
+	}
+
+h2, h3, h4, h5, h6 {
+  font-family: $body-font;
+  font-weight: 500;
+}
+
+sup {
+	font-size:0.5em ; vertical-align:super;
+	}
+	
+.amar {
+	@include theme($amar-bg-img, $amar-text-color, $amar-bg-color);
+
+}
+	
+.busy-families{
+	@include theme($busy-families-bg-img, $busy-families-text-color, $busy-families-bg-color);
+}
+	
+.neutral{
+	background: $neutral-bg-img;
+	color: $main-color;
+	.right-col, nav, .sibling-nav{
+	a{
+		color:  $main-color;
+		@include transitions;
+		&:visited{ 
+			color: $main-color;
+		}
+		&:hover{
+			color: $neutral-text-color;
+			background-color: $neutral-bg-color;
+			}
+		}
+	}
+}
+		
+header {	
+	white-space: nowrap;
+	hgroup{
+	margin-top: 2.5%;
+	margin-left: 0.5%;
+	margin-bottom: 1%;
+  	a {
+		text-decoration: none;
+		color: $main-color;
+		&:visited{
+			color: $main-color;
+		}
+  	}
+  
+  h1{
+	font-size: 2.1em;
+	margin: 0;
+	padding: 0;
+  	}
+  h2{
+	letter-spacing: 0.11em;
+	margin: 0;
+	padding:0;
+    }
+  }
+}
+
+nav {
+	margin: -3.25% 0.25% 0 0.25%;
+	padding: 0 0 0.75% 0;
+	text-align: right;
+    ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		display: inline;
+		font-family: $body-font;
+		font-size: 1.1em;
+		//letter-spacing: 1px;
+		li{
+			display: inline;
+			a{
+			text-decoration: none;
+			}	
+		}
+  	}
+  	
+  	  @media screen and (max-width: 1024px){
+		text-align: left;
+		margin: 0 0.25%;
+	}				
+}
+		
+p, ul {
+  font-family: $body-font;
+  font-weight: 400;
+}
+
+.sibling-nav, p, .right-col{
+	 a{
+	padding: 0 0.5%;
+	}
+}
+
+.left-col{
+	float: left;
+	width: 55%;
+	overflow: hidden;
+	  @media screen and (max-width: $mobile-layout-width){
+		width: 100%;
+		clear: both;
+		}
+	}
+	
+.right-col{
+	float: right;
+	width: 45%;
+	  @media screen and (max-width: $mobile-layout-width){
+		width: 100%;
+		clear: both;
+		}
+	}
+
+div#content {
+    line-height: 1.2em; 
+    margin: 0 auto; 
+  
+  	ul{
+  		list-style-position: inside;
+		font-family: $body-font;
+		line-height: 1.5em; 
+		li{
+			a{
+				text-decoration: underline;
+			}
+		}
+  	}
+  
+	width: 100%;
+	padding: 0;
+	
+	.image{
+		img{
+			width: 99.5%;
+			margin: 0.25%;
+			}
+		}
+
+	p{
+		margin-left: 5%;
+		margin-right: 5%;	
+	}
+	
+	h1{
+		font-size: 1.6em;
+		line-height: 1.2em;
+		margin: 0 5%;
+		padding: 0;
+		}	
+		
+	h2{
+		font-size: 1.2em;
+		margin: 0 5%;
+		padding: 0;
+		}
+		
+		  @media screen and (max-width: $mobile-layout-width){
+			p, ul, h1, h2{
+				margin: 0.75% 0.25% 0.25% 0.25%;
+				padding: 0;
+			}
+		}
+  
+}
+
+.project-summary {
+  position: relative;
+  width: 20%; 
+  float: left;
+  padding: 0 0.25% 0 0.25%;
+  img {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	}
+	
+	span{
+ 		a {
+			text-decoration: none;
+			text-align: left; 
+			color: $main-color;
+			background-image: none;
+			position:absolute;
+			top: 45%;
+			left:1.3%;
+			width: 97.5%;
+			padding: 15px 0;			
+			@include transitions;
+			font-size:1.3em;
+			opacity: 0;
+			&.amar{
+				background-color: $amar-bg-color;
+				
+				}
+			&.busy-families{
+				background-color: $busy-families-bg-color;
+				}
+	 		&:hover{
+ 				opacity: 0.95;	
+ 				-moz-box-shadow: $drop-shadows;
+				-webkit-box-shadow: $drop-shadows;
+				box-shadow: $drop-shadows;
+ 			}
+		}
+	}
+	
+	  @media screen and (max-width: $mobile-layout-width){
+		width: 33%;
+		span{
+			a{
+			left: 0.5%;
+			width: 98.5%;
+			}
+		}
+	}
+}
+
+.youtube-container{
+		width: 99.5%;
+		margin: 0 0.25%;
+		float: left;
+		position: relative;
+    	padding-bottom: 56.25%; /* 16/9 ratio */
+    	height: 0;
+    	overflow: hidden;
+    	iframe, embed, object{
+    		position: absolute;
+    		top: 0;
+    		left: 0;
+    		width: 100%;
+    		height: 100%;
+    		}
+		}
+		
+.sibling-nav{
+		overflow: hidden;
+		text-align: center;
+		clear: both;
+		p{
+			margin-top: 1em;
+		}
+	}

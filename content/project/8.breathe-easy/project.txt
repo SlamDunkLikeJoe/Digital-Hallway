@@ -1,0 +1,19 @@
+title: Breathe Easy
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/EjKvNbXK1wM
+-
+content: 
+Our concept is a wall mounted display that makes the user more aware of the air quality in
+certain locations. The device takes the information from Twitter. As the information
+changes, the lights will change the speed they pulse depending on the quality of the air.
+The different speeds of the pulse represents breathing. The better the quality of the air,
+the slower the light pulse will be. This represents slow and calm deep breaths. If the air
+quality is poor the pulses of the lights will be short and sharp. We hope the device will
+provoke family discussion as to what each level of light pulse means.
+-
+team:
+- [Abi Brown (Product Design)](http://productdesign.dundee.ac.uk/~abrown/wordpress)
+- [Scott Robinson (Digital Interaction Design)](http://interaction.dundee.ac.uk/~srobinson/wordpress)
+- [Andrew Williamson (Digital Interaction Design)](http://productdesign.dundee.ac.uk/~awilliamson/wordpress)

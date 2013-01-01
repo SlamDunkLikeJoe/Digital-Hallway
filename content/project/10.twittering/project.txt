@@ -1,0 +1,21 @@
+title: Twittering
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/fTTWbS8qw8A
+-
+content: 
+Twittering is a web enabled telephone that allows people with estranged family members to
+gain an ambient sense of activity among their loved ones.
+Knowing that a person is active and well can be extremely comforting, so much so that we
+don't need to contact them directly. We gathered Twitter activity and made this with
+people who don't regularly use social media in mind.
+When Twittering rings, we're being spoken to; if it moves, someone said something; if
+there's a lot of chatter on the line, everyone's been busy today. Everyone knows how to
+use a telephone and everyone wants to hear from their loved ones. This phone is an easy
+and fun way of twittering.
+-
+team:
+- [Duncan Anderson (Product Design)](http://productdesign.dundee.ac.uk/~danderson/wordpress)
+- [Stephen Swanton (Product Design)](http://productdesign.dundee.ac.uk/~sswanton/wordpress)
+- [Struan Fraser (Digital Interaction Design)](http://interaction.dundee.ac.uk/~sfraser/wordpress)

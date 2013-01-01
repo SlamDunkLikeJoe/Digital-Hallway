@@ -1,0 +1,19 @@
+title: Weather Printer 
+- 
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/FxbkZmzWVAo
+-
+content: 
+Our concept makes use of an Arduino and a thermal printer that prints out New York Weather
+information at Sunrise and Sunset. We designed our prototype around a busy New York City
+parent so just before they leave their home for work they will have a printed tweet
+waiting for them. We have sourced our data from a website called ifttt.com that then
+tweets to our Twitter account @1NYCWeather. We made use of an ethernet shield attached to
+our Arduino to retrieve data from Twitter. This is all connected to the printer that
+automatically prints two tweets per day.
+-
+team:
+- [Finnian McKeown (Product Design)](http://productdesign.dundee.ac.uk/~fmckeown/wordpress)
+- [Stephanie Post (Digital Interaction Design)](http://interaction.dundee.ac.uk/~spost/wordpress)
+- [Pauline Wilkie (Digital Interaction Design)](http://interaction.dundee.ac.uk/~pwilkie/wordpress)

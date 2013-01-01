@@ -1,0 +1,22 @@
+title: Eco Cubes
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/cGOzSV2Y4GA
+-
+content: 
+This device encourages sustainable living to home users. It informs the user how much
+energy their home is currently using in comparison with their local community and the
+Nation.
+The idea is to encourage home owners to switch off appliances and reduce their energy
+consumption.
+The device is activated by pressing the button. Once activated the boxes light up
+depending on the energy use in the areas. Green represents lowest energy use and red
+represents the highest.
+Our project aim was to encourage users to reduce their energy bills, to maintain a green
+light for the box that represents their home.
+-
+team:
+- [Peter Iveson (Product Design)](http://ivesondesigns.wordpress.com/)
+- [Douglas Pflug (Product Design)](http://productdesign.dundee.ac.uk/~dpflug/wordpress)
+- [Katerina Gorkovenko (Digital Interaction Design)](http://interaction.dundee.ac.uk/~kgorkovenko/wordpress)

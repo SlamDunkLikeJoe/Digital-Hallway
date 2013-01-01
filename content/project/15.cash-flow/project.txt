@@ -1,0 +1,19 @@
+title: Cash Flow
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/QgXxF6SbnoA
+-
+content: 
+Cash flow is a water feature designed to fit into your daily routine.  A simple glance on
+the way out the door gives the user an abstract view of their financial state based on
+their bank balance, which may affect how they spend their day.  It’s aim is to give the
+user a simple way to gauge their finances, while maintaining a level of privacy. What is
+considered to be a large amount of money and a little amount of money is decided by the
+user and is represented by the speed of the water, so your finances stay personal while
+acting as a decorative focal point in the home.
+-
+team:
+- [John Thomson (Product Design)](http://productdesign.dundee.ac.uk/~jthomson/wordpress)
+- [Rachael Johnston (Digital Interaction Design)](http://interaction.dundee.ac.uk/~rjohnston/wordpress)
+- [Michael Lindin (Digital Interaction Design)](http://interaction.dundee.ac.uk/~mlindin/wordpress)

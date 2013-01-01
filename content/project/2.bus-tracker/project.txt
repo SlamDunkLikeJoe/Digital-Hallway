@@ -1,0 +1,19 @@
+title: Bus Tracker
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/3poMmEjzGVA
+-
+content: 
+Our concept is a map which shows the different bus routes and stations around the area our
+client lives and works. This map streams data from an online API which tracks the buses as
+they arrive and leave the stations by lighting LEDs. On our prototype we have focused on
+the different parts of his journey; the past, present and future. The first set of icons
+concentrate on the past and show pictures of what he has time for if the particular bus is
+around that station. The later icons are landmarks which give him a mental picture of
+where he is and how far away he is from his destination.
+-
+team:
+- [Jonathan Lawrence (Product Design)](http://productdesign.dundee.ac.uk/~jlawrence/wordpress)
+- [Louis McFie (Product Design)](http://productdesign.dundee.ac.uk/~lmcfie/wordpress)
+- [Matthew Connolly (Digital Interaction Design)](http://interaction.dundee.ac.uk/~mconnolly/wordpress)

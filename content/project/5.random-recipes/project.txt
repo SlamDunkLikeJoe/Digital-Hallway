@@ -1,0 +1,19 @@
+title: Random Recipes
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/N_aRISdURiA
+-
+content: 
+ Random Recipes is a discreet product designed for busy families in busy cities. It
+generates a random ingredients list for the user every morning. Then generates the
+corresponding method for the ingredients when the user comes home. This takes control away
+from the them, but also gives them a healthy, tasty meal every night without them having
+to think too much. When you get the recipe list in the morning, it is unclear what you
+will be making, until you get the method in the evening, adding risk and a surprise. We
+chose to incorporate this playfulness into the design of the product.
+-
+team:
+- [Lewis Henderson (Product Design)](http://lewis212.wordpress.com/)
+- [Brian Davidson (Digital Interaction Design)](http://interaction.dundee.ac.uk/~bdavidson/wordpress)
+- [Paulius Ptašinskas (Digital Interaction Design)](http://interaction.dundee.ac.uk/~pptasinskas/wordpress) 

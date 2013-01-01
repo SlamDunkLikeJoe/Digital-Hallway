@@ -1,0 +1,18 @@
+title: WeatherSpheres
+-
+theme: amar
+-
+youtube: http://www.youtube.com/embed/lVJwOmewmvs
+-
+content: 
+Consisting of rain, wind and temperature, the WeatherSpheres takes data from the internet
+and recreates it in a non visual way. Each sphere has its own unique material allowing the
+visually impaired to tell the difference by touching each one before picking it up and
+activating it. Once picked up and turned over the WeatherSpheres activate and represent
+their weather type using multiple senses. So not only do they get the weather forecast but
+they also leave the house each day with a pleasant experience.
+-
+team:
+- [Francis Munnoch (Product Design)](http://productdesign.dundee.ac.uk/~fgmunnoch/wordpress)
+- [Alistair Norris (Digital Interaction Design)](http://interaction.dundee.ac.uk/~anorris/wordpress)
+- [Dean Johnstone (Digital Interaction Design)](http://interaction.dundee.ac.uk/~djohnstone/wordpress)

@@ -1,0 +1,18 @@
+title: Traffic State
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/fDAkv_4gQOk
+-
+content: 
+Traffic State is a device that we designed to represent traffic movement within New York
+in a visual way. Its aim is to aid the user's decision in the morning as to what form of
+transport they should take. The position of the metal parabola hanging below the allows the user to gauge the
+traffic over the past two and a half hours. The Traffic State is designed to be read like
+a graph. It allows us to read the state of the traffic at present and the user will be
+able to become familiar with it over time. 
+-
+team:
+- [Lynsey Brownlow (Product Design)](http://productdesign.dundee.ac.uk/~lbrownlow/wordpress)
+- [Kyle Macquarrie (Digital Interaction Design)](http://velvetkevorkian.co.uk/)
+- [David Raymond (Digital Interaction Design)](http://interaction.dundee.ac.uk/~draymond/wordpress)

@@ -1,0 +1,26 @@
+:head
+:header
+:navigation
+      <div id="content"><!--begin content-->
+      <div class= "right-col">
+      <h1>@title</h1>
+        @content
+        <h2>Designed by:</h2>
+        @team
+      </div>
+      <div class= "left-col">
+        :images
+        <div class= "youtube-container">
+			<iframe src="@youtube" frameborder="0" allowfullscreen></iframe>
+		</div>
+        </div>
+        
+        
+          </div><!--end content-->
+          <div class="sibling-nav"><!--begin sibling nav-->
+          if $siblings do
+        :previous-page | :next-page
+          endif
+        </div><!--end sibling nav-->
+      </div><!--end page container-->
+

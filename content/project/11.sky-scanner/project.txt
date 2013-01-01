@@ -1,0 +1,22 @@
+title: Sky Scanner
+-
+theme: amar
+-
+youtube: http://www.youtube.com/embed/_-3WLDAe-Mw
+-
+content: 
+The Sky Scanner was developed for the accountant and entrepreneur Amar Latif who has been
+blind for much of his adult life. 
+Amar described a situation in which others would comment on the sky by saying “Nice day
+isn’t it?” while often he himself was oblivious to the visible aspects of weather due to
+his visual impairment.
+We created a simple device that communicates the nuances of different weather conditions
+through musical patterns and explores the mood that different sounds can convey. 
+Our intention is to replace lost visual information with audio information that can be
+obtained independently by Amar, providing him with knowledge he can apply both practically
+and socially.
+-
+team:
+- [Ewan Baird (Product Design)](http://productdesign.dundee.ac.uk/~ebaird/wordpress)
+- [Iona Bryning (Digital Interaction Design)](http://interaction.dundee.ac.uk/~ibryningmacleod/wordpress)
+- [Thomas Kinnear (Digital Interaction Design)](http://interaction.dundee.ac.uk/~tkinnear/wordpress)

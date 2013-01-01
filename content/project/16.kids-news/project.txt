@@ -1,0 +1,19 @@
+title: Kid's News
+-
+theme: busy-families
+-
+youtube: http://www.youtube.com/embed/tw2KjiLmYR4
+-
+content: 
+Our concept was designed with children in mind. The device delivers the day’s main news
+article on a printed slip when a button is pushed. This device takes info from the CBBC
+Newsround website and formats it into a rich, bite sized digest. The product aims to
+inform children of current affairs and hopefully spark an interest in this subject from a
+young age, and to help parents interact with their children by giving them a shared
+interest in the news. We hope this mixture of simple interaction and clear useful
+information will have a positive effect on today’s youth.
+-
+team:
+- [Jack Fisher (Product Design)](http://productdesign.dundee.ac.uk/~jfisher/wordpress)
+- [Andrew Crossan (Digital Interaction Design)](http://interaction.dundee.ac.uk/~acrossan/wordpress)
+- [Ruben Partington (Digital Interaction Design)](http://interaction.dundee.ac.uk/~rpartington/wordpress)

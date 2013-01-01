@@ -1,0 +1,21 @@
+title: RainCheck
+-
+theme: amar
+-
+youtube: http://www.youtube.com/embed/NoGidhbaOes
+-
+content: 
+RainCheck is a 21st century adaptation of a barometer. It uses live data from an online
+weather forecast and translates it into a tactile experience for the user. Our project is
+inspired by a person checking the weather by putting their hand out of a window. RainCheck
+provides a similarly tactile but more accurate way of forecasting the weather. On opening,
+the device recreates the level of rain expected that day - light, medium or heavy - using
+artificially created raindrops. This interaction could take place in the hall before the
+user leaves the house, allowing them to make an informed decision on choice of clothing or
+activity.
+-
+team:
+- [Eilidh Price (Product Design)](http://productdesign.dundee.ac.uk/~eprice/wordpress)
+- [James Rice (Product Design)](http://productdesign.dundee.ac.uk/~jrice/wordpress)
+- [Calum Potter (Digital Interaction Design)](http://interaction.dundee.ac.uk/~cpotter/wordpress)
+

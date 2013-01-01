@@ -1,0 +1,24 @@
+title: About Social Digital
+-
+content: 
+#Come and experience our Digital Hallway
+
+Level three Social Digital, a combination of
+Digital Interaction Design and Product Design students from the University of Dundee, are
+hosting an exhibition to showcase a range of objects which communicate live data through
+physical interactions. Our inspiration came from two different sources: the needs of
+visually impaired people and research about family life in busy cities. 
+
+The projects will be available to view all day on the 17th of January 2013 with a drinks 
+reception from 5-9pm in the Matthew Building level 7 Product Design studios. 
+
+#Thanks
+There were many people involved in the creation of this project and we’d like to thank them for all their help. 
+
+- [Amar Latif](http://www.amarlatif.com/)
+- [Graham Pullin]( http://www.dundee.ac.uk/djcad/staff/grahampullin/)
+- [Kate Saunderson]( http://www.dundee.ac.uk/djcad/staff/katesaunderson/)
+- [Ali Napier]( http://www.dundee.ac.uk/djcad/staff/alinapier/)
+- [Andew Cook]( http://www.alwaysfromthispoint.co.uk/about.html)
+- [Dave Sloan]( http://www.computing.dundee.ac.uk/staff/dsloan/default.htm)
+- [Masters of Design Ethnography class of 2012]( http://www.dundee.ac.uk/postgraduate/courses/design_ethnography_msc.htm)

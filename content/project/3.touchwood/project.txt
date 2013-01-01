@@ -1,0 +1,23 @@
+title: Touchwood
+-
+theme: amar
+-
+youtube: http://www.youtube.com/embed/vPWpg5gcQEo
+-
+content: 
+Touchwood is a single functional information device designed to deliver key information
+for the day ahead. The device would be placed near the front door so it could be easily
+accessed by the user as they leave their home. Design for the disabled is an area that we
+all became fascinated with after our visit from Amar Latif (a visually impaired
+individual), due to this our design is aimed at the visually impaired. Touchwood delivers
+its information by playing a D major scale as you run your hand along the top face of the
+device. Each coat peg will deliver a corresponding note; the higher the pitch the more
+appropriate the jacket. The device functions by taking a feed from the internet and then
+splitting it into three data fields: wind speed, feels like temperature, and current
+conditions. Having all three of these variables allows for a wide range of conditions and
+many weather combinations.
+-
+team:
+- [Finlay Page (Product Design)](http://productdesign.dundee.ac.uk/~fpage/wordpress)
+- [Ewan Sinclair (Product Design)](http://productdesign.dundee.ac.uk/~esinclair/wordpress)
+- [Scott McIntyre (Digital Interaction Design)](http://interaction.dundee.ac.uk/~smcintyre/wordpress)

@@ -1,0 +1,22 @@
+title: Thermo-Dome
+-
+theme: amar
+-
+youtube: http://www.youtube.com/embed/lSOzJ6ZVXg0
+-
+content: 
+We have seamlessly fitted the temperature of the user's destination into their life.
+Keeping with the barometer's traditional functions we want to effect people’s life from
+how they are presented an aspect of the weather, in our project…the temperature. 
+
+Inspired by Amar’s morning search for the temperature by placing his hand out of the
+window, we want to keep this familiar gesture and interaction but update it, making it
+much more beneficial and effective. 
+
+Using this before leaving the door in the morning the user will fell and experience
+today’s temperature at their fingertips, giving them an accurate idea of what garment to
+select before leaving.
+-
+team:
+- [Christopher Cameron (Digital Interaction Design)](http://interaction.dundee.ac.uk/~ccameron/wordpress)
+- [Jamie Conway (Digital Interaction Design)](http://interaction.dundee.ac.uk/~jconway/wordpress)
