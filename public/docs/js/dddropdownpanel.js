@@ -165,7 +165,7 @@ uninit:function(){
 var defaultpanel=new ddpanel({
 	ids: ["mypanel", "mypanelcontent", "mypaneltab"], // id of main panel DIV, content DIV, and tab DIV
 	stateconfig: {initial: "0px", persiststate: true}, // initial: initial reveal amount in pixels (ie: 5px)
-	animate: {enabled: true, steps: 15}, //steps: number of animation steps. Int between 1-20. Smaller=faster.
+	animate: {enabled: true, steps: 5}, //steps: number of animation steps. Int between 1-20. Smaller=faster.
 	pointerimage: {enabled: true, src: [directory_root+"/public/arrow-down.gif", directory_root+"/public/arrow-up.gif"]},
 	closepanelonclick: {enabled: true} // close panel when links or elements with CSS class="closepanel" within container is clicked on?
 })
