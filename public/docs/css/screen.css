@@ -245,7 +245,7 @@ p, ul {
       box-shadow: 0 3px 4px #888888; }
   @media screen and (max-width: 800px) {
     .project-summary {
-      width: 33%; }
+      width: 33.3%; }
       .project-summary span a {
         left: 0.5%;
         width: 98.5%; } }
