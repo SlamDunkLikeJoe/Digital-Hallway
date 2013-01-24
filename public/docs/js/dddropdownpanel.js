@@ -139,7 +139,7 @@ initpanel:function(){
 			ddpanel.addEvent(pcontent, function(e){
 				var target=e.srcElement || e.target
 				if (/(^|\s+)closepanel($|\s+)/.test(target.className) || target.tagName=="A" || (target.parentNode && target.parentNode.tagName=="A")){
-					thispanel.togglepanel("up")
+					thispanel.togglepanelplus("up")
 				}
 			}, "click")
 	}
@@ -164,7 +164,7 @@ uninit:function(){
 
 var defaultpanel=new ddpanel({
 	ids: ["mypanel", "mypanelcontent", "mypaneltab"], // id of main panel DIV, content DIV, and tab DIV
-	stateconfig: {initial: "0px", persiststate: true}, // initial: initial reveal amount in pixels (ie: 5px)
+	stateconfig: {initial: "0px", persiststate: false}, // initial: initial reveal amount in pixels (ie: 5px)
 	animate: {enabled: true, steps: 5}, //steps: number of animation steps. Int between 1-20. Smaller=faster.
 	pointerimage: {enabled: true, src: [directory_root+"/public/arrow-down.gif", directory_root+"/public/arrow-up.gif"]},
 	closepanelonclick: {enabled: true} // close panel when links or elements with CSS class="closepanel" within container is clicked on?

@@ -109,12 +109,23 @@ body {
 	-moz-border-radius: 9px;
     -webkit-border-radius: 9px;
 	border-radius: 9px;
+
 	p{
   		padding: 0 2.5% 0 2.5%;
   		margin-left: 2.5%;
   		margin-right: 2.5%;
-  		background-color: $main-bg-color;
+  		
   	}
+}
+
+.amar-highlight{
+	color: $amar-text-color;
+	background: $amar-bg-color;
+}
+
+.busy-families-highlight{
+	color: $busy-families-text-color;
+	background: $busy-families-bg-color;
 }
 	
 header, footer {

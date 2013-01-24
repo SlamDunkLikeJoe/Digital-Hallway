@@ -44,8 +44,15 @@ body {
   .ddpanel p {
     padding: 0 2.5% 0 2.5%;
     margin-left: 2.5%;
-    margin-right: 2.5%;
-    background-color: rgba(225, 225, 225, 0.9); }
+    margin-right: 2.5%; }
+
+.amar-highlight {
+  color: #eae6cf;
+  background: #b8cac3; }
+
+.busy-families-highlight {
+  color: #e9e3d7;
+  background: #b0a69c; }
 
 header, footer {
   clear: both; }
